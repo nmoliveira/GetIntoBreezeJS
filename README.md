@@ -1,9 +1,9 @@
 GetIntoBreezeJS
 ===============
 
-Get into Breeze.js
+###Get into Breeze.js
 
-Simple project for testing framework Breeze.js
+Simple project for testing framework **Breeze.js**
 
 ####Technologies:
 * ASP.Net MVC
