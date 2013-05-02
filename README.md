@@ -9,4 +9,5 @@ Simple project for testing framework **Breeze.js**
 * ASP.Net MVC
 * ASP.Net Web API
 * Breeze.js
+* Knockout.js
 * Entity Framework Code First
