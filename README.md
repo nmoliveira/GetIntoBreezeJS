@@ -11,3 +11,4 @@ Simple project for testing framework **Breeze.js**
 * Breeze.js
 * Knockout.js
 * Entity Framework Code First
+* Twitter Bootstrap
